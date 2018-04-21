@@ -1,0 +1,23 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "number guessing game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jessielute/brainstation.git"
+  },
+  "author": "jessie lute",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jessielute/brainstation/issues"
+  },
+  "homepage": "https://github.com/jessielute/brainstation#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
+}
+
